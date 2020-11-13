@@ -1,3 +1,2 @@
-# PythonMisha
-
-test test
+# Andrey Malachow & Mikhail Shlykov
+## Colaboration
